@@ -1,0 +1,15 @@
+.menu-page .menu-banner {
+  background: #f3e4d3;
+}
+
+.menu-page .menu-section {
+  padding-top: 66px;
+}
+
+.menu-page .menu-card {
+  background: #f8eee2;
+}
+
+.menu-page .menu-bottom .button {
+  min-width: 190px;
+}

@@ -1,0 +1,20 @@
+.story-page .story-banner {
+  min-height: 330px;
+}
+
+.story-page .story-section {
+  background: #fbf6ef;
+}
+
+.story-page .story-photo img {
+  border-radius: 12px;
+}
+
+.story-page .quote-band {
+  background: #f3e4d3;
+  color: #39291f;
+}
+
+.story-page .quote-band .eyebrow {
+  color: #79563d;
+}

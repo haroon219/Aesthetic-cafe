@@ -1,0 +1,16 @@
+.cafe-page .cafe-banner {
+  background: #f2e3d2;
+}
+
+.cafe-page .cafe-section {
+  padding-top: 65px;
+  padding-bottom: 65px;
+}
+
+.cafe-page .cafe-content {
+  box-shadow: none;
+}
+
+.cafe-page .cafe-extra {
+  background: #fbf6ef;
+}
